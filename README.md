@@ -15,6 +15,8 @@ Data Dictionary
 |Title      |Number address for the president that is delivering the address (ranges from first to twelfth)|String         |
 |Text       |List of sentences containing the entire speech                                                |List of Strings|
 
+[Link to data](Data/state_ofthe_union_texts.csv)
+
 ## Figures 
 
 ## References
