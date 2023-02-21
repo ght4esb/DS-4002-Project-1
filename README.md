@@ -1,7 +1,9 @@
 # DS-4002-Project-1
 
 ## SRC 
-Sample text
+### Installing/Building Code
+
+### Usage of Code
 
 ## Data 
 
