@@ -25,6 +25,9 @@ Data Dictionary
 
 [Link to data](Data/state_ofthe_union_texts.csv)
 
+### Relevant Notes about the Use of Data
+The data set was relatively small, which resulted in not a lot of data for the topic modeling to process. This is particularly important for the analysis of eras in American history, as shorter eras contained less data and therefore lower coherence scores in topic modeling.
+
 ## Figures 
 
 ## References
