@@ -31,9 +31,9 @@ The data set was relatively small, which resulted in not a lot of data for the t
 ## Figures 
 
 ## References
-[1] A. Prokop, “The State of the Union Address’s history, explained,” Vox, Feb. 6, 2023. [Online]. Available: https://www.vox.com/2015/1/20/7854969/biden-state-of-the-union-address-history. [Accessed: Feb. 9, 2023].
-[2] “State of the union address: US House of Representatives: History, Art & Archives,” US House of Representatives [Online]. Available: https://history.house.gov/Institution/SOTU/State-of-the-Union/. [Accessed: Feb. 9, 2023].
-[3] R. Elving, “As the nation has changed, so has the State of the Union speech,” National Public Radio, Feb. 4, 2023. [Online]. Available: https://npr.org/2023/02/04/1154134314/state-of-the-union-address-2023-history. [Accessed: Feb. 9, 2023].
+[1] A. Prokop, “The State of the Union Address’s history, explained,” Vox, Feb. 6, 2023. [Online]. Available: https://www.vox.com/2015/1/20/7854969/biden-state-of-the-union-address-history. [Accessed: Feb. 9, 2023].  
+[2] “State of the union address: US House of Representatives: History, Art & Archives,” US House of Representatives [Online]. Available: https://history.house.gov/Institution/SOTU/State-of-the-Union/. [Accessed: Feb. 9, 2023].  
+[3] R. Elving, “As the nation has changed, so has the State of the Union speech,” National Public Radio, Feb. 4, 2023. [Online]. Available: https://npr.org/2023/02/04/1154134314/state-of-the-union-address-2023-history. [Accessed: Feb. 9, 2023].  
 [4]
 
 ### Links to MI1 and MI2
