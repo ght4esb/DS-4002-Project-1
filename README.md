@@ -37,6 +37,6 @@ The data set was relatively small, which resulted in not a lot of data for the t
 [4]
 
 ### Links to MI1 and MI2
-[MI1](https://docs.google.com/document/d/1-gNGJVQLpVzO9EekcbVrqv9PvzNYCDZYVpXvTuxJwJ8/edit?usp=sharing)/n
+[MI1](https://docs.google.com/document/d/1-gNGJVQLpVzO9EekcbVrqv9PvzNYCDZYVpXvTuxJwJ8/edit?usp=sharing)  
 [MI2](https://docs.google.com/document/d/1PZsgXShXIkSPw3CwpS5JDVV3jropM0ABtoxNYha5uuI/edit?usp=sharing)
 
